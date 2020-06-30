@@ -1,2 +1,2 @@
 # testgit
-this is test git repository only
+this is test git repository only and this is for commit
